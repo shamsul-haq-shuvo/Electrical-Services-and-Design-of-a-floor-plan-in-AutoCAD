@@ -32,7 +32,8 @@ The building consists of:
 - Garage with generator and guard room
 - Rooftop access
 
-📖 Refer to *Floor Plan (Page 2)* :contentReference[oaicite:0]{index=0}
+### 🖼️ Main Floor Layout
+![Main Floor Electrical Layout](Conduction_Layout_with_Emergency_line_Main_Floor.png)
 
 ---
 
@@ -44,7 +45,6 @@ The building consists of:
 - Switchboards
 - Power sockets (general and heavy load)
 
-📖 See *Fittings and Fixtures Layout (Page 4)* :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -53,7 +53,8 @@ The building consists of:
 - Different conduit sizes based on load
 - Separate routing for emergency systems
 
-📖 See *Conduction Layout (Page 5–6)* :contentReference[oaicite:2]{index=2}
+### 🖼️ Garage Conduit Layout
+![Garage Electrical Layout](Conduction_Layout_with_Emergency_line_Garage.png)
 
 ---
 
